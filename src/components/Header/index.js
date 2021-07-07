@@ -9,7 +9,7 @@ export default function Header() {
             <StatusBar
                 barStyle="light-content" backgroundColor='#04152A' />
             <HeaderContainer>
-                <HeaderText> </HeaderText>
+                <HeaderText>  a   </HeaderText>
             </HeaderContainer>
         </>
     )
